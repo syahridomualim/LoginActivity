@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LoginActivity</string>
+    <string name="register_now">Don\'t have an account? Register Now</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="login">Login</string>
+</resources>
